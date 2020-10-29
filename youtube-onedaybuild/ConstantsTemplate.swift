@@ -16,4 +16,5 @@ import Foundation
 //    static var API_URL = "https://youtube.googleapis.com/"
 //        + "youtube/v3/playlistItems?part=snippet&p"
 //        + "laylistId=\(Constants.PLAYLIST_ID)&key=\(Constants.API_KEY)"
+//    static var VIDEOCELL_ID = "VideoCell"
 //}
